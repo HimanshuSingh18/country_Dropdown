@@ -1,0 +1,45 @@
+.tom{
+    text-align:j;
+    width: 260px;
+    border: 3px solid rgb(11, 11, 11);
+    padding: 50px;
+    /* margin: 20px; */
+/* 
+    top: 5%;
+    left: 50%;
+    right: 50%;
+    bottom: 5%;
+    display: block;
+    position: absolute;
+    background: url(images/background.png) no-repeat;
+    background-size: 75px 41px;
+    width: 750px;
+    height: 400px; */
+    
+   
+    background-color: rgb(159, 111, 111);
+    margin-top: 190px; 
+    margin-left: 610px; 
+    margin-right:300px ;
+    margin-bottom:180px ;
+   
+}
+.hi{
+      background-color: rgb(70, 48, 44);
+}
+
+
+
+.hs{
+    text-align:j;
+    width: 280px;
+    border: 3px solid rgb(6, 5, 7);
+    padding: 50px;
+    background-color: rgb(134, 148, 153);
+    margin-top: 250px; 
+    margin-left: 610px; 
+    margin-right:300px ;
+    margin-bottom:180px ;
+   
+
+}
